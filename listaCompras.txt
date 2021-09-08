@@ -4,3 +4,8 @@ Lechuga
 Tómate
 Cebolla
 Queso cremoso
+---
+Huevo
+Harina
+Aceite
+Vinagre
